@@ -1,1 +1,1 @@
-alert('111');
+import '../styles/styles.css'
